@@ -33,3 +33,10 @@ Follow these steps to set up MeetEase locally:
 ```bash
 git clone https://github.com/tarun05rawat/MeetEase.git
 cd MeetEase
+
+### Install Dependencies
+
+```bash
+npm install
+
+
