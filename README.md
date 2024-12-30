@@ -100,7 +100,10 @@ To deploy the application, use [Vercel](https://vercel.com/). Add the same envir
 ## Screenshots
 
 ![Home Page](./screenshots/landingPage.png)  
+
 _Home page with a clean, user-friendly interface._
+
+
 
 ![Booking Page](./screenshots/bookingPage.png)  
 _Customizable booking page with dynamic time slot creation._
