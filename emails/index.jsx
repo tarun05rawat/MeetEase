@@ -74,7 +74,7 @@ export const Email = ({
                 </Text>
                 <Text style={{ ...paragraph, marginTop: -5 }}>
                   <b>Duration: </b>
-                  {duration}
+                  {duration} min
                 </Text>
                 <Text
                   style={{
